@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+}
+
+#projects {
+    height: 30vh;
+    width: 100%;
+    overflow:hidden;
+    color: black!
+}
+
+.carosel {
+    -webkit-transform:scale(0.5);
+    -moz-transform:scale(0.5);
+    -ms-transform:scale(0.5);
+    transform:scale(0.5);
+}
+/* img {
+    -webkit-transform:scale(0.5);
+-moz-transform:scale(0.5);
+-ms-transform:scale(0.5);
+transform:scale(0.5);
+} */
